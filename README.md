@@ -1,37 +1,15 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Hey you! ☀️
 
+The Mobility Group within the ATTUNE project would like to share some tips on how we can pollute less during our daily commutes in order to reduce our ecological footprint and help the planet! 🌱
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+Will you give us just 3 minutes of your time? 🕐
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+First thing first, we advise you to think about what means of transportation you use for your daily commute. Would it be possible to use sustainable solutions for the planet (walking, cycling, public transport...) to travel the same distance?
+Our recent survey showed that many students would be in favor of carpooling. Why not try it? It's a great way to save money and make new friends, plus you reduce pollution!
+Did you know that in Siena there is a bike sharing service and lots of agreements to use public transport at reduced prices? You can find all this information at this link.
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+If you are curious to find out some more tips on sustainable mobility, visit our blog! 🖊️
 
-(* = my other side project -- carrd.co)
-(** = not included)
+Before we say goodbye, we would also like to invite you to participate in our meme contest on the theme of sustainability, which runs until 13 May on our Instagram page Attune - Italia. We hope to see many of you participating! 💚
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+If you have any questions or curiosity, or would simply like to get in touch with us, please write to attune@unisi.it 
